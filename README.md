@@ -26,8 +26,8 @@ CAPFI Technology porte l’expertise historique du Groupe en Finance.
 Nous accompagnons nos clients sur des projets de développement from scratch (Front to Back Office), de fusion SI, d’implémentation de progiciels …
 Nous intervenons à  Paris et à  Londres.
 
-# <a href="https://www.capfi.fr/capfi-objectif"><img src="https://user-images.githubusercontent.com/43647938/46158228-b2b97800-c27d-11e8-9a9e-db5bf19762a2.png" alt="Logo CAPFI Objectif" width="300" height="100"></a>
-
+# <p align="right"><a href="https://www.capfi.fr/capfi-objectif"><img src="https://user-images.githubusercontent.com/43647938/46158228-b2b97800-c27d-11e8-9a9e-db5bf19762a2.png" alt="Logo CAPFI Objectif" width="300" height="100"></a></p>
+<
 Nous accompagnons nos clients de la conception à la réalisation de leurs dispositifs digitaux au travers de l'agile delivery, du design thinking et l'UX.
 
 # <a href="https://www.capfi.fr/capfi-banque-et-assurance"><img src="https://user-images.githubusercontent.com/43647938/46157967-3161e580-c27d-11e8-9f93-4dbf399fc6e4.png" alt="Logo CAPFI Banque & Assurance" width="300" height="100"></a>
@@ -36,7 +36,7 @@ CAPFI Banque et Assurance s’engage et vous accompagne dans les transformations
 
 Forts de notre mobilité géographique et de la diversité de nos clients, nos consultants vous accompagnent dans la mise en œuvre de vos projets liés à votre core business.
 
-# <a href="https://www.capfi.fr/capfi-sixieme-sens"><img src="https://user-images.githubusercontent.com/43647938/46158148-89005100-c27d-11e8-9176-a04e66117f55.png" alt="Logo CAPFI 6ème SENS" width="300" height="100"></a>
+# <p align="right"><a href="https://www.capfi.fr/capfi-sixieme-sens"><img src="https://user-images.githubusercontent.com/43647938/46158148-89005100-c27d-11e8-9176-a04e66117f55.png" alt="Logo CAPFI 6ème SENS" width="300" height="100"></a></p>
 
 Experts en Infrastructure IT, notre 6ème Sens nous permet d'accompagner nos clients au quotidien pour répondre aux enjeux stratégiques des évolutions de leur SI.
 
